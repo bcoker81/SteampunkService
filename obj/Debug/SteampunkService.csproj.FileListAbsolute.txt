@@ -1,0 +1,7 @@
+C:\CokerGit\SteampunkService\SteampunkService\obj\Debug\SteampunkService.csprojResolveAssemblyReference.cache
+C:\CokerGit\SteampunkService\SteampunkService\obj\Debug\SteampunkService.csproj.CoreCompileInputs.cache
+C:\CokerGit\SteampunkService\SteampunkService\bin\SteampunkService.dll.config
+C:\CokerGit\SteampunkService\SteampunkService\bin\SteampunkService.dll
+C:\CokerGit\SteampunkService\SteampunkService\bin\SteampunkService.pdb
+C:\CokerGit\SteampunkService\SteampunkService\obj\Debug\SteampunkService.dll
+C:\CokerGit\SteampunkService\SteampunkService\obj\Debug\SteampunkService.pdb
